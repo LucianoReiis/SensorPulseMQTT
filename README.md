@@ -1,4 +1,4 @@
-# Sensor de Pulso com Comunicação MQTT <br>
+# Sensor de Pulso com Comunicação MQTT
 Este sketch Arduino lê dados de um Sensor de Pulso (conectado ao pino analógico 0) e se comunica com um servidor usando MQTT (Message Queuing Telemetry Transport). Os dados são então publicados em um tópico específico no broker MQTT.
 
 ## Requisitos
